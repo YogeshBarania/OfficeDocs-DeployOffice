@@ -94,6 +94,9 @@ The [Current Channel profile](https://config.office.com/officeSettings/MPCurrent
 
 - **Profile settings** is a separate tab on this page for configuring profile-specific settings, such as the [update deadline](#deadline).
 
+> [!NOTE]
+> Cloud update profile is not available for Semi-Annual Enterprise Channel.
+
 ## Profile controls
 
 Profile controls are management actions available for each individual profile, unless otherwise specified. 
